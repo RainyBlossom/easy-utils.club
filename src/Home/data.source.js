@@ -434,8 +434,8 @@ export const Footer10DataSource = {
                 <span>
                   <span>
                     <p>
-                      <span>蒙ICP备16000384号&nbsp;</span>
-                      <span>© 2020 寄雨瑶花</span>
+                      <span><a href="https://beian.miit.gov.cn">蒙ICP备16000384号-5&nbsp;</a></span>
+                      <span>© 2021 寄雨瑶花</span>
                     </p>
                   </span>
                 </span>

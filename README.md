@@ -1,3 +1,24 @@
-# landing-umi-example
+# aegean.tech
 
-详细使用请查看 landing 里的 [use in umi](https://landing.ant.design/docs/use/umi)
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
